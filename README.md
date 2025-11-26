@@ -1,6 +1,6 @@
 # WeaponSFXByFaceplateVTT
 
-A library of weapon sound effects intended for tabletop games (e.g. modern-war / military / horror RPGs) using VTT.
+A library of modern warfare-era weapon sound effects intended for tabletop games (e.g. modern-war / military / horror RPGs) using VTT.
 
 ## What is this
 
