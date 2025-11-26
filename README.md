@@ -16,6 +16,36 @@ This repo provides a collection of royalty-free realistic sfx files (gunshots, r
 
 - Clone or download this repository... you're done! You may wish to refer to Moulinette Soundboard for FoundryVTT or other equivalent modules to actually implement these into your game.
 
+##
+
+**GitHub topics list:**
+sound-effects
+sfx
+audio-library
+weapon-sfx
+firearms
+gunshots
+explosions
+melee-sfx
+heavy-weapons
+modern-warfare
+military-audio
+tactical-audio
+combat-sfx
+ttrpg
+ttrpg-audio
+vtt
+vtt-audio
+foundryvtt
+delta-green
+twilight-2000
+modern-horror
+rpg-resources
+combat-audio
+weaponsfx
+audio-pack
+sfx-collection
+
 **SEO-optimized keywords list:**
 
 weapon sound effects  
